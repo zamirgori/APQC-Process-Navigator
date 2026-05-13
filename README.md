@@ -356,6 +356,19 @@ This tool was built to make APQC frameworks accessible and interactive. If you e
 
 This application is a knowledge interface tool. APQC is a registered trademark. For questions about PCF usage rights, refer to [apqc.org](https://www.apqc.org).
 
+**About APQC** : 
+
+An internationally recognized resource for process and performance improvement, APQC helps organizations adapt to rapidly changing environments, build new and better ways to work, and succeed in a competitive marketplace. With a focus on productivity, knowledge management, benchmarking, and quality improvement initiatives, APQC works with its member organizations to identify best practices; discover effective methods of improvement; broadly disseminate findings; and connect individuals with one another and the knowledge, training, and tools they need to succeed. Founded in 1977, APQC is a member-based nonprofit serving organizations around the world in all sectors of business, education, and government. APQC is also a proud winner of the 2003, 2004, 2008, 2012, and 2013 North American Most Admired Knowledge Enterprises (MAKE) awards. This award is based on a study by Teleos, a European based research firm, and the KNOW network.
+
+**COPYRIGHT AND ATTRIBUTION** : 
+
+©2022 APQC. ALL RIGHTS RESERVED. This Process Classification Framework® ("PCF") is the copyrighted intellectual property of APQC. APQC encourages the wide distribution, discussion, and use of the PCF for classifying and defining organizational processes. Accordingly, APQC hereby grants you a perpetual, worldwide, royalty-free license to use, copy, publish, modify, and create derivative works of the PCF, provided that all copies of the PCF and any derivative works contain a copy of this notice.
+
+
+**Designed by Zamir Gori**
+
+
+
 ---
 
 **Built for process professionals, operational analysts, and teams dedicated to continuous improvement.**
